@@ -17,7 +17,7 @@ function Step4() {
           >
             <span className="white">1</span>
           </div>
-          <div id="line"></div>
+          <div id="line1"></div>
         </div>
         <div className="flex ">
           <div
@@ -29,7 +29,7 @@ function Step4() {
             <span>2</span>
           </div>
         </div>
-        <div id="line"></div>
+        <div id="line1"></div>
         <div className="flex ">
           <div
             className="

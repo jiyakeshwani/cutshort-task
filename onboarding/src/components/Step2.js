@@ -37,7 +37,7 @@ function Step2() {
             <span>2</span>
           </div>
         </div>
-        <div id="line"></div>
+        <div id="line1"></div>
         <div className="flex ">
           <div
             className="
